@@ -11,9 +11,9 @@ title                    : "Midjourney as a tool for album art generation and it
 title_separator          : "-"
 name                     : &name "Artem Elkin"
 description              : &description "B.Sc. Informatik Student at University Stuttgart and a Java developer working student at LF Consult"
-url                      : https://artemelkin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://musicOtaky.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "artemelkin.github.io"
+repository               : "musicOtaky.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
